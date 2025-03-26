@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Saksham Singh
-- 📖 Studying at MNNIT Allahabad
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Web Development Technologies, Data Structures and Algorithms, Object Oriented Programming and a lot more
+- 📖 Studying Civil Engineering at MNNIT Allahabad
 - 📫 How to reach me - Connect with me on LinkedIn www.linkedin.com/in/saksham-singh-8b61b6214
 
 <!---
